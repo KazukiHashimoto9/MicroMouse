@@ -1,0 +1,77 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Nucleo
+#
+DEF Nucleo U 0 40 Y Y 1 F N
+F0 "U" -100 -1200 60 H V C CNN
+F1 "Nucleo" -100 500 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 0 -950 60 0 0 0 3V3  Normal 0 C C
+T 0 0 50 60 0 0 0 5V  Normal 0 C C
+T 0 50 -850 60 0 0 0 AREF  Normal 0 C C
+T 0 -450 50 60 0 0 0 GND_1  Normal 0 C C
+T 0 100 250 60 0 0 0 GND_2  Normal 0 C C
+T 0 -450 150 60 0 0 0 NRST_1  Normal 0 C C
+T 0 100 150 60 0 0 0 NRST_2  Normal 0 C C
+T 0 150 -750 60 0 0 0 PA_0(A0)  Normal 0 C C
+T 0 150 -650 60 0 0 0 PA_1(A1)  Normal 0 C C
+T 0 -400 250 60 0 0 0 PA_10(D0)  Normal 0 C C
+T 0 -350 -850 60 0 0 0 PA_11(D10)  Normal 0 C C
+T 0 -400 -50 60 0 0 0 PA_12(D2)  Normal 0 C C
+T 0 150 -50 60 0 0 0 PA_2(A7)  Normal 0 C C
+T 0 150 -550 60 0 0 0 PA_3(A2)  Normal 0 C C
+T 0 150 -450 60 0 0 0 PA_4(A3)  Normal 0 C C
+T 0 150 -350 60 0 0 0 PA_5(A4)  Normal 0 C C
+T 0 150 -250 60 0 0 0 PA_6(A5)  Normal 0 C C
+T 0 150 -150 60 0 0 0 PA_7(A6)  Normal 0 C C
+T 0 -400 -750 60 0 0 0 PA_8(D9)  Normal 0 C C
+T 0 -400 350 60 0 0 0 PA_9(D1)  Normal 0 C C
+T 0 -400 -150 60 0 0 0 PB_0(D3)  Normal 0 C C
+T 0 -400 -450 60 0 0 0 PB_1(D6)  Normal 0 C C
+T 0 150 -1050 60 0 0 0 PB_3(D13)  Normal 0 C C
+T 0 -400 -1050 60 0 0 0 PB_4(D12)  Normal 0 C C
+T 0 -400 -950 60 0 0 0 PB_5(D11)  Normal 0 C C
+T 0 -400 -350 60 0 0 0 PB_6(D5)  Normal 0 C C
+T 0 -400 -250 60 0 0 0 PB_7(D4)  Normal 0 C C
+T 0 -400 -550 60 0 0 0 PF_0(D7)  Normal 0 C C
+T 0 -400 -650 60 0 0 0 PF_1(D8)  Normal 0 C C
+T 0 50 350 60 0 0 0 VIN  Normal 0 C C
+S -700 450 450 -1150 0 0 0 N
+X ~ ~ -650 -1050 200 L 50 50 1 1 I
+X ~ ~ -650 -950 200 L 50 50 1 1 I
+X ~ ~ -650 -950 200 L 50 50 1 1 I
+X ~ ~ -650 -850 200 L 50 50 1 1 I
+X ~ ~ -650 -750 200 L 50 50 1 1 I
+X ~ ~ -650 -650 200 L 50 50 1 1 I
+X ~ ~ -650 -550 200 L 50 50 1 1 I
+X ~ ~ -650 -450 200 L 50 50 1 1 I
+X ~ ~ -650 -350 200 L 50 50 1 1 I
+X ~ ~ -650 -250 200 L 50 50 1 1 I
+X ~ ~ -650 -150 200 L 50 50 1 1 I
+X ~ ~ -650 -50 200 L 50 50 1 1 I
+X ~ ~ -650 50 200 L 50 50 1 1 I
+X ~ ~ -650 150 200 L 50 50 1 1 I
+X ~ ~ -650 250 200 L 50 50 1 1 I
+X ~ ~ -650 350 200 L 50 50 1 1 I
+X ~ ~ 400 -1050 200 R 50 50 1 1 I
+X ~ ~ 400 -950 200 R 50 50 1 1 I
+X ~ ~ 400 -850 200 R 50 50 1 1 I
+X ~ ~ 400 -750 200 R 50 50 1 1 I
+X ~ ~ 400 -650 200 R 50 50 1 1 I
+X ~ ~ 400 -550 200 R 50 50 1 1 I
+X ~ ~ 400 -450 200 R 50 50 1 1 I
+X ~ ~ 400 -350 200 R 50 50 1 1 I
+X ~ ~ 400 -250 200 R 50 50 1 1 I
+X ~ ~ 400 -150 200 R 50 50 1 1 I
+X ~ ~ 400 -50 200 R 50 50 1 1 I
+X ~ ~ 400 50 200 R 50 50 1 1 I
+X ~ ~ 400 150 200 R 50 50 1 1 I
+X ~ ~ 400 250 200 R 50 50 1 1 I
+X ~ ~ 400 350 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

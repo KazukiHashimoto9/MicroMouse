@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# AD8532AR
+#
+DEF AD8532AR OPAMP 0 40 Y Y 1 F N
+F0 "OPAMP" -50 600 60 H V C CNN
+F1 "AD8532AR" -50 -200 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 -200 150 60 0 0 0 +INA  Normal 0 C C
+T 0 100 50 60 0 0 0 +INB  Normal 0 C C
+T 0 -200 250 60 0 0 0 -INA  Normal 0 C C
+T 0 100 150 60 0 0 0 -INB  Normal 0 C C
+T 0 -200 350 60 0 0 0 OUTA  Normal 0 C C
+T 0 100 250 60 0 0 0 OUTB  Normal 0 C C
+T 0 50 350 60 0 0 0 V+  Normal 0 C C
+T 0 -250 50 60 0 0 0 V-  Normal 0 C C
+S -400 500 300 -100 0 0 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
