@@ -1,4 +1,4 @@
-update=2018年10月02日 火曜日 14:03:58
+update=2019年03月19日 火曜日 14:06:56
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=../../Downloads/kicad-lib-master;../../Downloads/kicad-library-master/library
@@ -71,13 +81,8 @@ LibName39=library/zh
 LibName40=library/nucleo
 LibName41=library/mpu9250
 LibName42=library/full_led_a
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName43=library/icm-20602
+LibName44=library/3p
+LibName45=library/4p
+LibName46=library/icm_right
+LibName47=library/icm_left
