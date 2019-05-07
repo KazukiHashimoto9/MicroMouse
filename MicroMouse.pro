@@ -1,4 +1,4 @@
-update=2019年03月19日 火曜日 14:06:56
+update=2019年05月03日 金曜日 01:18:57
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=../../Downloads/kicad-lib-master;../../Downloads/kicad-library-master/library
@@ -77,12 +67,18 @@ LibName35=library/ad8532ar
 LibName36=library/tb6612
 LibName37=library/cn_motor
 LibName38=/Users/kazu/Downloads/kicad-library-master/library/MCU_ST_STM32
-LibName39=library/zh
-LibName40=library/nucleo
-LibName41=library/mpu9250
-LibName42=library/full_led_a
+LibName39=library/nucleo
+LibName40=library/full_led_a
+LibName41=library/3p
+LibName42=library/4p
 LibName43=library/icm-20602
-LibName44=library/3p
-LibName45=library/4p
-LibName46=library/icm_right
-LibName47=library/icm_left
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
