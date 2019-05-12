@@ -1273,13 +1273,13 @@ F 3 "" H 21950 9400 50  0001 C CNN
 	1    21950 9400
 	1    0    0    -1  
 $EndComp
-Text GLabel 18350 3100 2    60   Input ~ 0
-R_ENC_A
-Text GLabel 18350 3200 2    60   Input ~ 0
-R_ENC_B
 Text GLabel 9050 4800 0    60   Input ~ 0
-L_ENC_A
+R_ENC_A
 Text GLabel 9050 4900 0    60   Input ~ 0
+R_ENC_B
+Text GLabel 18350 3100 2    60   Input ~ 0
+L_ENC_A
+Text GLabel 18350 3200 2    60   Input ~ 0
 L_ENC_B
 Text GLabel 18350 2700 2    60   Input ~ 0
 M_PWM_R
@@ -1839,8 +1839,6 @@ Wire Wire Line
 Wire Wire Line
 	15750 9400 16800 9400
 Wire Wire Line
-	9050 4600 9400 4600
-Wire Wire Line
 	7550 9750 7550 10150
 Connection ~ 7550 8650
 Wire Wire Line
@@ -1849,34 +1847,6 @@ Wire Wire Line
 	7550 8550 7550 8750
 Wire Wire Line
 	7550 8050 7550 8250
-Wire Wire Line
-	18000 5100 18350 5100
-Wire Wire Line
-	18000 4900 18350 4900
-Wire Wire Line
-	18000 4800 18350 4800
-Wire Wire Line
-	18000 4400 18350 4400
-Wire Wire Line
-	18000 4300 18350 4300
-Wire Wire Line
-	18000 4200 18350 4200
-Wire Wire Line
-	18000 3000 18350 3000
-Wire Wire Line
-	18000 2900 18350 2900
-Wire Wire Line
-	9050 4900 9400 4900
-Wire Wire Line
-	9050 4800 9400 4800
-Wire Wire Line
-	9050 4500 9400 4500
-Wire Wire Line
-	9050 4400 9400 4400
-Wire Wire Line
-	9050 4300 9400 4300
-Wire Wire Line
-	9050 4200 9400 4200
 Wire Wire Line
 	18000 3500 18350 3500
 Wire Wire Line
@@ -2297,22 +2267,6 @@ Wire Wire Line
 Wire Wire Line
 	4950 8500 4950 9650
 Wire Wire Line
-	9050 4700 9400 4700
-Wire Wire Line
-	18000 3100 18350 3100
-Wire Wire Line
-	18000 3200 18350 3200
-Wire Wire Line
-	9050 5200 9400 5200
-Wire Wire Line
-	9050 5300 9400 5300
-Wire Wire Line
-	9050 5400 9400 5400
-Wire Wire Line
-	18000 2700 18350 2700
-Wire Wire Line
-	18000 2800 18350 2800
-Wire Wire Line
 	3800 9400 3950 9400
 Wire Wire Line
 	4350 9400 4500 9400
@@ -2325,10 +2279,6 @@ Wire Wire Line
 Wire Wire Line
 	4950 9650 4800 9650
 Connection ~ 4950 9400
-Wire Wire Line
-	9050 5500 9400 5500
-Wire Wire Line
-	9050 5600 9400 5600
 Wire Wire Line
 	19400 9300 19800 9300
 Wire Wire Line
@@ -2343,18 +2293,6 @@ Wire Wire Line
 	17950 9450 18400 9450
 Wire Wire Line
 	17950 9550 18400 9550
-Wire Wire Line
-	18000 4500 18350 4500
-Wire Wire Line
-	18000 4600 18350 4600
-Wire Wire Line
-	18000 4700 18350 4700
-Wire Wire Line
-	18000 5200 18350 5200
-Wire Wire Line
-	18000 5300 18350 5300
-Wire Wire Line
-	18000 5400 18350 5400
 Wire Wire Line
 	7600 13850 7600 13700
 Wire Wire Line
@@ -2570,4 +2508,12 @@ F 3 "" H 5350 13550 50  0000 C CNN
 	1    5350 13550
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	9050 4800 9400 4800
+Wire Wire Line
+	9050 4900 9400 4900
+Wire Wire Line
+	18000 3100 18350 3100
+Wire Wire Line
+	18000 3200 18350 3200
 $EndSCHEMATC
