@@ -1,4 +1,44 @@
-Cmp-Mod V01 Created by PcbNew   date = 2019年05月12日 日曜日 02:41:06
+Cmp-Mod V01 Created by PcbNew   date = 2019年05月18日 土曜日 18:47:54
+
+BeginCmp
+TimeStamp = 5CD7047E
+Path = /5CC9955F
+Reference = U6;
+ValeurCmp = ICM-20602;
+IdModule  = myfootprint:ICM-20602;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD7040D
+Path = /5B4949ED
+Reference = U1;
+ValeurCmp = STM32F405RGTx;
+IdModule  = myfootprint:LQFP-64_10x10mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD7081E
+Path = 
+Reference = REF**;
+ValeurCmp = motormount;
+IdModule  = myfootprint:motormount;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD703AB
+Path = /5CD750B1
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD7046B
+Path = /5B72097C
+Reference = U3;
+ValeurCmp = CN_MOTOR;
+IdModule  = myfootprint:BH-10SG;
+EndCmp
 
 BeginCmp
 TimeStamp = 5C909885
@@ -329,14 +369,6 @@ IdModule  = myfootprint:CSS-0575A-SMT;
 EndCmp
 
 BeginCmp
-TimeStamp = 5C909A9B
-Path = /5B72233C
-Reference = U4;
-ValeurCmp = CN_MOTOR;
-IdModule  = myfootprint:BH-10SG;
-EndCmp
-
-BeginCmp
 TimeStamp = 5CB4501C
 Path = /5B736C87
 Reference = OPAMP1;
@@ -438,14 +470,6 @@ Path = /5B7339EB
 Reference = SEN4;
 ValeurCmp = TSL262R;
 IdModule  = myfootprint:Socket_Strip_Straight_1x03;
-EndCmp
-
-BeginCmp
-TimeStamp = 5CD703AB
-Path = /5CD750B1
-Reference = C1;
-ValeurCmp = 10u;
-IdModule  = Resistors_SMD:R_0603_HandSoldering;
 EndCmp
 
 BeginCmp
@@ -585,14 +609,6 @@ IdModule  = Resistors_SMD:R_0603_HandSoldering;
 EndCmp
 
 BeginCmp
-TimeStamp = 5CD7040D
-Path = /5B4949ED
-Reference = U1;
-ValeurCmp = STM32F405RGTx;
-IdModule  = myfootprint:LQFP-64_10x10mm_Pitch0.5mm;
-EndCmp
-
-BeginCmp
 TimeStamp = 5CD70450
 Path = /5B73E604
 Reference = U2;
@@ -609,27 +625,11 @@ IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
 
 BeginCmp
-TimeStamp = 5CD7047E
-Path = /5CC9955F
-Reference = U6;
-ValeurCmp = ICM-20602;
-IdModule  = myfootprint:ICM-20602;
-EndCmp
-
-BeginCmp
 TimeStamp = 5CD70489
 Path = /5C897707
 Reference = U7;
 ValeurCmp = 4p;
 IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
-EndCmp
-
-BeginCmp
-TimeStamp = 5CD7081E
-Path = 
-Reference = REF**;
-ValeurCmp = motormount;
-IdModule  = myfootprint:motormount;
 EndCmp
 
 BeginCmp
@@ -641,9 +641,9 @@ IdModule  = myfootprint:motormount;
 EndCmp
 
 BeginCmp
-TimeStamp = 5CD7046B
-Path = /5B72097C
-Reference = U3;
+TimeStamp = 5C909A9B
+Path = /5B72233C
+Reference = U4;
 ValeurCmp = CN_MOTOR;
 IdModule  = myfootprint:BH-10SG;
 EndCmp
