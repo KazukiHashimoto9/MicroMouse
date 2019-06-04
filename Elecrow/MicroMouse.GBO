@@ -1,11 +1,14 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2-1)-1*
+G04 #@! TF.CreationDate,2019-06-05T01:13:59+09:00*
+G04 #@! TF.ProjectId,MicroMouse,4d696372-6f4d-46f7-9573-652e6b696361,rev?*
+G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Bot*
+G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 4.0.1-stable) date 2018年09月23日 日曜日 04:00:54*
+G04 Created by KiCad (PCBNEW (5.1.2-1)-1) date 2019-06-05 01:13:59*
 %MOMM*%
-G01*
+%LPD*%
 G04 APERTURE LIST*
-%ADD10C,0.100000*%
 G04 APERTURE END LIST*
-D10*
 M02*
