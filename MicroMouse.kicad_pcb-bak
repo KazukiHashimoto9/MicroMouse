@@ -1859,7 +1859,7 @@
   (module myfootprint:CSS-0575A-SMT (layer F.Cu) (tedit 5BA3D739) (tstamp 5C909A1A)
     (at 83 78 90)
     (path /5B1F57A9)
-    (fp_text reference Speaker (at 2.72 6.17 90) (layer F.SilkS)
+    (fp_text reference SPEAKER (at 2.72 6.17 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SPEAKER (at 2.68 -0.97 90) (layer F.Fab) hide
@@ -1971,7 +1971,7 @@
   (module myfootprint:TVBP06-BN043CB-B (layer F.Cu) (tedit 5CC95CA0) (tstamp 5C909A27)
     (at 94 49)
     (path /5B581F6B)
-    (fp_text reference Mode (at 0 -3) (layer F.SilkS)
+    (fp_text reference MODE (at 0 -3) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SPST (at 0 3) (layer F.Fab) hide
@@ -1992,7 +1992,7 @@
   (module myfootprint:TVBP06-BN043CB-B (layer F.Cu) (tedit 5CC95CA0) (tstamp 5C909A2D)
     (at 94 55)
     (path /5B5252A1)
-    (fp_text reference Reset (at 0 -3) (layer F.SilkS)
+    (fp_text reference RESET (at 0 -3) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SPST (at 0 3) (layer F.Fab) hide
@@ -2069,7 +2069,7 @@
   (module myfootprint:SS12D01G4 (layer F.Cu) (tedit 5CC95C6F) (tstamp 5C909A21)
     (at 51 6 90)
     (path /5B1B649B)
-    (fp_text reference Power (at 0 -3 90) (layer F.SilkS)
+    (fp_text reference POWER (at 0 -3 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SPST (at 0 3 90) (layer F.Fab) hide
