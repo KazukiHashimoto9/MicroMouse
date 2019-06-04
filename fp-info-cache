@@ -1,4 +1,4 @@
-4145660210727384
+4151903917436384
 Air_Coils_SML_NEOSID
 Neosid_Air-Coil_SML_1turn_HDM0131A
 Neosid, Air-Coil, SML, 1turn, HDM0131A,
@@ -11305,6 +11305,13 @@ AD8532AR
 8
 8
 myfootprint
+aoba
+
+
+0
+0
+0
+myfootprint
 AZ1086
 
 
@@ -11396,6 +11403,13 @@ IRLML6402
 3
 3
 myfootprint
+kiyoshi
+
+
+0
+0
+0
+myfootprint
 LED-5MM
 LED 5mm round vertical
 LED 5mm round vertical
@@ -11445,6 +11459,13 @@ pin header
 4
 4
 myfootprint
+serial
+Through hole socket strip
+socket strip
+0
+0
+0
+myfootprint
 Socket_Strip_Straight_1x03
 Through hole socket strip
 socket strip
@@ -11493,6 +11514,13 @@ TVBP06-BN043CB-B
 0
 2
 2
+myfootprint
+write
+Through hole pin header
+pin header
+0
+0
+0
 myfootprint
 XT
 Dual banana socket, footprint - 2 x 6mm drills
@@ -14766,5046 +14794,5051 @@ RP_KiCAD_Libs
 0204_2f5
 <b>RESISTOR</b><p>
 type 0204, grid 5 mm
-0
+
 0
 2
 2
 RP_KiCAD_Libs
 0204_2f7
 <b>RESISTOR</b><p>
-0
-0
+type 0204, grid 7.5 mm
+
 0
 2
 2
 RP_KiCAD_Libs
 0204_V
-0
-0
-0
-0
-2
-2
-RP_KiCAD_Libs
-207
-0
-0
+<b>RESISTOR</b><p>
+type 0204, grid 2.5 mm
 
 0
 2
 2
+RP_KiCAD_Libs
+0207_2f7
+<b>RESISTOR</b><p>
+type 0207, grid 7.5 mm
+
 0
-207
-0
+2
+2
+RP_KiCAD_Libs
+0207_2f10
+<b>RESISTOR</b><p>
 type 0207, grid 10 mm
 
 0
 2
 2
-0
-0
+RP_KiCAD_Libs
+C1608
 <b>CAPACITOR</b>
 
 0
 2
 2
-0
-0
+RP_KiCAD_Libs
+C1608_WP
 <b>CAPACITOR</b>
 
 0
 2
 2
-0
-0
+RP_KiCAD_Libs
+C2012
 <b>CAPACITOR</b>
 
 0
 2
 2
-0
-0
+RP_KiCAD_Libs
+C3216
 <b>CAPACITOR</b>
 
 0
 2
 2
-0
-0
+RP_KiCAD_Libs
+C3225
 <b>CAPACITOR</b>
 
 0
 2
 2
-0
-0
+RP_KiCAD_Libs
+chikuwa_mottenee
 
 
 0
 0
 0
-0
-0
+RP_KiCAD_Libs
+chikuwa_mottenee_cu
 
 
 0
 0
 0
-0
-0
+RP_KiCAD_Libs
+D-3200S_2L
 
 
 0
 4
 2
-0
-0
+RP_KiCAD_Libs
+F103_mini
 
 
 0
 36
 36
-0
-0
+RP_KiCAD_Libs
+hien
 
 
 0
 0
 0
-0
-0
+RP_KiCAD_Libs
+hien_mask
 
 
 0
 0
 0
-0
-0
+RP_KiCAD_Libs
+hien_silk
 
 
 0
 0
 0
-0
-0
+RP_KiCAD_Libs
+hien_text
 
 
 0
 0
 0
-0
-0
+RP_KiCAD_Libs
+hien_text_mask
 
 
 0
 0
 0
-0
-0
+RP_KiCAD_Libs
+KIT_RP
 
 
 0
 0
 0
-0
-0
+RP_KiCAD_Libs
+MGS15
 
 
 0
 6
 6
-0
-0
+RP_KiCAD_Libs
+REED_SWITCH_SP3-1A16-3A
 
 
 0
 2
 2
-0
-0
+RP_KiCAD_Libs
+RP_SMD_Button
 
 
 0
 2
 2
-0
-0
+RP_KiCAD_Libs
+r_test
 
 
 0
 0
 0
-0
-0
+RP_KiCAD_Libs
+SW_DIP_x1_Slide
 CTS Electrocomponents, Series 206/208
 
 0
 2
 2
-0
-0
+RP_KiCAD_Libs
+SW_DIP_x2_Slide
 CTS Electrocomponents, Series 206/208
 
 0
 4
 4
-0
-0
+RP_KiCAD_Libs
+SW_DIP_x3_Slide
 CTS Electrocomponents, Series 206/208
 
 0
 6
 6
-0
-0
+RP_KiCAD_Libs
+SW_DIP_x4_Slide
 CTS Electrocomponents, Series 206/208
 
 0
 8
 8
-0
-0
+RP_KiCAD_Libs
+SW_DIP_x5_Slide
 CTS Electrocomponents, Series 206/208
 
 0
 10
 10
-0
-0
+RP_KiCAD_Libs
+SW_DIP_x6_Slide
 CTS Electrocomponents, Series 206/208
 
 0
 12
 12
-0
-0
+RP_KiCAD_Libs
+testPin
 
 
 0
 1
 1
-0
-0
+RP_KiCAD_Libs
+TOGGLE1_ON-ON
 
 
 0
 3
 3
-0
-1
+SMD_Packages
+1Pin
 module 1 pin (ou trou mecanique de percage)
 DEV
 0
 1
 1
-0
-0
+SMD_Packages
+BGA-48
 BGA-48 - pitch 0.8 mm
 
 0
 48
 48
-0
-0
+SMD_Packages
+BGA-64-0.8mm
 BGA-64 pitch 0.8mm
 
 0
 64
 64
-0
-0
+SMD_Packages
+BGA-90-0.8mm
 
 
 0
 90
 90
-0
-0
+SMD_Packages
+BGA-96_pitch0.8mm_dia0.4mm
 
 
 0
 96
 96
-0
-0
+SMD_Packages
+BGA-121-1mm
 BGA-121-1mm
 
 0
 121
 121
-0
-0
+SMD_Packages
+BGA-144-1mm
 BGA-144-1mm
 
 0
 144
 144
-0
-0
+SMD_Packages
+BGA-256
 
 
 0
 256
 256
-0
-0
+SMD_Packages
+BGA-256_pitch1mm_dia0.4mm
 
 
 0
 256
 256
-0
-0
+SMD_Packages
+BGA-352
 
 
 0
 352
 352
-0
-0
+SMD_Packages
+BGA-400-1mm
 
 
 0
 400
 400
-0
-0
+SMD_Packages
+BGA-484-1mm
 
 
 0
 484
 484
-0
-0
+SMD_Packages
+BGA-625_pitch0.8mm_dia0.4mm
 
 
 0
 625
 625
-0
-0
+SMD_Packages
+BGA-1023-1mm
 
 
 0
 1023
 1023
-0
-0
+SMD_Packages
+BGA-1156-1mm
 
 
 0
 1156
 1156
-0
-0
+SMD_Packages
+BGA-1295-1mm
 BGA-1295-1mm
 
 0
 1295
 1295
-0
-0
+SMD_Packages
+Ceramic_Filter
 Ceramic filter
 ceramic filter
 0
 6
 6
-0
-0
+SMD_Packages
+Conn-3
 
 
 0
 5
 3
-0
-0
+SMD_Packages
+Conn-3_Inv
 
 
 0
 5
 3
-0
-0
+SMD_Packages
+Conn-5
 
 
 0
 7
 5
-0
-0
+SMD_Packages
+Conn-5_Inv
 
 
 0
 7
 5
-0
-0
+SMD_Packages
+Conn-20
 
 
 0
 22
 20
-0
-0
+SMD_Packages
+DIP-8_SMD
 DIP-8_300 smd shape
 smd cms 8dip
 0
 8
 8
-0
-0
+SMD_Packages
+EMI_Filter
 EMI Filter
 emi filter
 0
 3
 3
-0
-0
+SMD_Packages
+Fuse_SMD
 
 
 0
 2
 2
-0
-0
+SMD_Packages
+LFCSP-40-1EP
 
 
 0
 41
 41
-0
-0
+SMD_Packages
+MLF-44_Atmel
 44M1 MICRO LEAD FRAME PACKAGE (MLF)
 44M1 MICRO LEAD FRAME PACKAGE (MLF)
 0
 44
 44
-0
-0
+SMD_Packages
+PLCC-28
 Support CMS Plcc 28 pins
 CMS PLCC
 0
 28
 28
-0
-0
+SMD_Packages
+PLCC-32
 Support CMS Plcc 32 pins
 CMS Plcc
 0
 32
 32
-0
-0
+SMD_Packages
+PLCC-44
 Support CMS Plcc 44 pins
 CMS Plcc
 0
 44
 44
-0
-0
+SMD_Packages
+PLCC-52
 Support CMS Plcc 52 pins
 CMS PLCC
 0
 52
 52
-0
-0
+SMD_Packages
+PLCC-68
 Support CMS Plcc 68 Pins
 CMS PLCC
 0
 68
 68
-0
-0
+SMD_Packages
+PLCC-84
 Support CMS Plcc 84 Pins
 CMS PLCC
 0
 84
 84
-0
-0
+SMD_Packages
+POT_SMD
 module CMS Potentiometre
 CMS POT
 0
 3
 3
-0
-0
+SMD_Packages
+powermite3
 PowerMite3
 
 0
 3
 3
-0
-0
+SMD_Packages
+PQFP-112
 module cms PQFP 112 pins
 PQFP CMS
 0
 112
 112
-0
-0
+SMD_Packages
+PQFP-132_i386
 Module SPECIAL upro Intel 386EX
 
 0
 132
 132
-0
-0
+SMD_Packages
+PQFP-132_M
 Module CMS Pqfp 132 pins
 CMS PQFP
 0
 132
 132
-0
-0
+SMD_Packages
+PQFP-160
 Module CMS Pqfp 160 pins
 CMS PQFP
 0
 160
 160
-0
-0
+SMD_Packages
+PQFP-208
 Module cms PQFP 208 pins
 PQFP CMS
 0
 208
 208
-0
-0
+SMD_Packages
+QFN-52-1EP_HandSoldering
 
 
 0
 53
 53
-0
-0
+SMD_Packages
+SMD-1206_Pol
 
 
 0
 2
 2
-0
-0
+SMD_Packages
+SMD-1210_Pol
 
 CMS SM
 0
 2
 2
-0
-0
+SMD_Packages
+SMD-2010_Pol
 
 CMS SMD
 0
 2
 2
-0
-0
+SMD_Packages
+SMD-2112_Pol
 
 
 0
 2
 2
-0
-0
+SMD_Packages
+SMD-2512_Pol
 
 CMS SM
 0
 2
 2
-0
-0
+SMD_Packages
+SMD-4032
 
 
 0
 2
 2
-0
-0
+SMD_Packages
+SO-8_PowerPAK_Vishay_Single
 PowerPAK SO-8 (see Vishay AN821)
 PowerPAK SO-8
 0
 9
 5
-0
-0
+SMD_Packages
+SO-16-L
 
 
 0
 16
 16
-0
-0
+SMD_Packages
+SO-16-N
 Module CMS SOJ 16 pins large
 CMS SOJ
 0
 16
 16
-0
-0
+SMD_Packages
+SO-16-W
 Module CMS SOJ 16 pins tres large
 CMS SOJ
 0
 16
 16
-0
-0
+SMD_Packages
+SOIC-8-N
 Module Narrow CMS SOJ 8 pins large
 CMS SOJ
 0
 8
 8
-0
-0
+SMD_Packages
+SOIC-14_N
 Module CMS SOJ 14 pins Large
 CMS SOJ
 0
 14
 14
-0
-0
+SMD_Packages
+SOIC-24
 
 
 0
 24
 24
-0
-0
+SMD_Packages
+SOIC-28
 Module CMS SOJ 28 pins large
 CMS SOJ
 0
 28
 28
-0
-0
+SMD_Packages
+SOJ-28-W
 Module CMS SOJ 32 pins large
 CMS SOJ
 0
 28
 28
-0
-0
+SMD_Packages
+SOJ-32
 Module CMS SOJ 32 pins
 CMS SOJ
 0
 32
 32
-0
-0
+SMD_Packages
+SOJ-32-W
 Module CMS SOJ 32 pins large
 CMS SOJ
 0
 32
 32
-0
-0
+SMD_Packages
+SOJ-40
 module CMS SOJ 40 pins
 
 0
 40
 40
-0
-0
+SMD_Packages
+SOJ-42
 Module CMS SOJ 42 pins
 CMS SOJ
 0
 42
 42
-0
-0
+SMD_Packages
+SSOP-14
 
 
 0
 14
 14
-0
-0
+SMD_Packages
+SSOP-20
 SSOP 20 pins
 CMS SSOP SMD
 0
 20
 20
-0
-0
+SMD_Packages
+SUPSOJ40
 Support CMS SOJ 40 pins
 CMS SOJ
 0
 40
 40
-0
-0
+SMD_Packages
+TSOP32SP
 Module CMS TSOP 32 pins
 CMS TSOP
 0
 32
 32
-0
-0
+SMD_Packages
+VLM0806_Housing
 VLM0806, Housing, Rohm,
 VLM0806, Housing, Rohm,
 0
 3
 3
-0
-0
+SMD_Packages
+VLM0806_Housing_Handsoldering
 VLM0806, Housing, Rohm,
 VLM0806, Housing, Rohm,
 0
 6
 3
-0
-0
+SMD_Packages
+VQFP-240
 Module CMS Vqfp 240 pins
 CMS VQFP
 0
 240
 240
-0
-20
+Sockets
+20TEX-ELL300
 Support Dil TEXTOOL 20 pins, pads elliptiques, e=300 mils
 DEV
 0
 22
 21
-0
-20
+Sockets
+20TEX300
 Support Dil TEXTOOL 20 pins, pads ronds, e=300 mils
 DEV
 0
 22
 21
-0
-24
+Sockets
+24tex300
 Support Dil TEXTOOL 24 pins, pads ronds, e=300 mils
 DEV
 0
 26
 25
-0
-24
+Sockets
+24TEXT-Ell300
 Support Dil TEXTOOL 24 pins, pads elliptiques, e=300 mils
 DEV
 0
 26
 25
-0
-28
+Sockets
+28TEX-Ell600
 Support TEXTOOL Dil 26 pins, pads elliptiques, e=600 mils
 DEV
 0
 30
 29
-0
-28
+Sockets
+28tex600
 Support TEXTOOL Dil 26 pins, pads ronds, e=600 mils
 DEV
 0
 30
 29
-0
-40
+Sockets
+40tex-Ell600
 Support TEXTOOL Dil 40 pins, pads elliptiques, e=600 mils
 DEV
 0
 42
 41
-0
-40
+Sockets
+40tex600
 Support TEXTOOL Dil 40 pins, pads ronds, e=600 mils
 DEV
 0
 42
 41
-0
+Sockets
 80188
 Module specifique pour 80188, pads ronds
 
 0
 68
 68
-0
-0
+Sockets
+ADSP2100
 Support pour ADSP 2100, pads ronds
 
 0
 101
 101
-0
-0
+Sockets
+H08
 Module boitier metalique H 8 pins
 DEV
 0
 8
 8
-0
-0
+Sockets
+PGA15X15
 Module modele pour PGA 15 x 15 pins, pads ronds
 PGA
 0
 225
 225
-0
-0
+Sockets
+PGA16X16
 Support modele pour PGA 16 x 16 pins, pads ronds
 PGA
 0
 256
 256
-0
-0
+Sockets
+PGA18X18
 Support modele pour PGA 18 x 18 pins, pads ronds
 PGA
 0
 324
 324
-0
-0
+Sockets
+PGA84
 Support PGA 84 pins
 PGA
 0
 84
 84
-0
-0
+Sockets
+PGA120
 Support PGA 120 pins
 PGA
 0
 120
 120
-0
-0
+Sockets
+PGA144
 Module PGA 144 pins, pads ronds
 PGA
 0
 145
 145
-0
-0
+Sockets
+PGA156
 Support PGA 156 pins, pads ronds
 PGA
 0
 156
 156
-0
-0
+Sockets
+PGA224
 Support PGA 224 pins
 PGA
 0
 224
 224
-0
-0
+Sockets
+PichConvertPCB_0.5-48
 
 
 0
 48
 48
-0
-0
+Sockets
+PLCC28
 Support Plcc 28 pins, pads ronds
 PLCC
 0
 28
 28
-0
-0
+Sockets
+PLCC32
 Socket PLCC 32 pins,  round pads
 PLCC
 0
 32
 32
-0
-0
+Sockets
+PLCC44
 Support Plcc 44 pins, pads ronds
 PLCC
 0
 44
 44
-0
-0
+Sockets
+PLCC52
 Support Plcc 52 pins, pads ronds
 PLCC
 0
 52
 52
-0
-0
+Sockets
+PLCC68
 Support Plcc 68 pins, pads ronds
 PLCC
 0
 68
 68
-0
-0
+Sockets
+PLCC84
 Support Plcc 84 pins, pads ronds
 PLCC
 0
 84
 84
-0
-0
+Sockets
+SDCARD-REVERSE
 
 
 0
 18
 18
-0
-0
+Sockets
+SIM72
 Support 72 pins pour barettes SIMM 32 bits
 SIMM
 0
 75
 72
-0
-0
+Sockets
+SIMM
 Support pour barettes SIMM 9 bits
 SIMM
 0
 32
 32
-0
-0
+Sockets
+Socket_SODIMM_DDR1-2_TE_1612618
 DDR 1&2 SODIMM Memory Socket - TE P/N 1612618
 DDR RAM SODIMM
 0
 202
 200
-0
-0
+Sockets
+Socket_SODIMM_DDR1-2_TE_1612618_Debug
 DDR 1&2 SODIMM Memory Socket - TE P/N 1612618
 DDR RAM SODIMM
 0
 202
 200
-0
-0
+Sockets
+Socket_SODIMM_DDR3_TE_2013289
 DDR 3 SODIMM Memory Socket - TE P/N 2013289
 DDR RAM SODIMM
 0
 206
 204
-0
-0
+Sockets
+Socket_SODIMM_DDR3_TE_2013289_Debug
 DDR 3 SODIMM Memory Socket - TE P/N 2013289
 DDR RAM SODIMM
 0
 206
 204
-0
-0
+Sockets
+SUPPORT_SO8_ZIF
 Module Dil 8 pins, pads elliptiques
 DIL
 0
 9
 8
-0
-0
+Sockets
+zip20
 Module ZIP 20 pins
 ZIP
 0
 20
 20
-0
-0
+Sockets
+zip24
 Module ZIP 24 pins
 ZIP
 0
 24
 24
-0
-0
+Sockets
+zip28
 Module ZIP 28 pins
 ZIP
 0
 28
 28
-0
-0
+Sockets_BNC
+BNC_Socket_TYCO-AMP
 BNC Socket TYCO AMP
 BNC Socket TYCO AMP
 0
 4
 2
-0
-0
+Sockets_BNC
+BNC_Socket_TYCO-AMP_LargePads
 BNC Socket TYCO AMP
 BNC Socket TYCO AMP
 0
 4
 2
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_2PinHorizontal
 Mini Universal Mate-N-Lok Socket, 2 Pin, Horizontal,
 Mini Universal Mate-N-Lok Socket, 2 Pin, Horizontal,
 0
 2
 2
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_2PinHorizontal_BigPads
 Mini Universal Mate-N-Lok Socket, 2 Pin, Horizontal, Big Pads,
 Mini Universal Mate-N-Lok Socket, 2 Pin, Horizontal, Big Pads,
 0
 2
 2
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_2PinVertical
 Mini Universal Mate-N-Lok Socket, 2 Pin, Vertical,
 Mini Universal Mate-N-Lok Socket, 2 Pin, Vertical,
 0
 2
 2
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_2PinVertical_BigPads
 Mini Universal Mate-N-Lok Socket, 2 Pin, Vertical, Big Pads,
 Mini Universal Mate-N-Lok Socket, 2 Pin, Vertical, Big Pads,
 0
 2
 2
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_3PinVertical
 Mini Universal Mate-N-Lok Socket, 3 Pin, Vertical,
 Mini Universal Mate-N-Lok Socket, 3 Pin, Vertical,
 0
 3
 3
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_3PinVertical_BigPads
 Mini Universal Mate-N-Lok Socket, 3 Pin, Vertical, Big Pads,
 Mini Universal Mate-N-Lok Socket, 3 Pin, Vertical, Big Pads,
 0
 3
 3
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_4PinHorizontal
 Mini Universal Mate-N-Lok, 4Pin, Horizontal,
 Mini Universal Mate-N-Lok, 4Pin, Horizontal,
 0
 4
 4
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_4PinHorizontal_BigPads
 Mini Universal Mate-N-Lok, 4Pin, Horizontal, Big Pads,
 Mini Universal Mate-N-Lok, 4Pin, Horizontal, Big Pads,
 0
 4
 4
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_4PinVertical
 Mini Universal Mate-N-Lok, 4Pin, Vertical,
 Mini Universal Mate-N-Lok, 4Pin, Vertical,
 0
 4
 4
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_4PinVertical_BigPads
 Mini Universal Mate-N-Lok, 4Pin, Vertical, Big Pads,
 Mini Universal Mate-N-Lok, 4Pin, Vertical, Big Pads,
 0
 4
 4
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_6PinHorizontal
 Mini Universal Mate-N-Lok Socket, 6Pin, Horizontal,
 Mini Universal Mate-N-Lok Socket, 6Pin, Horizontal,
 0
 6
 6
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_6PinHorizontal_BigPads
 Mini Universal Mate-N-Lok Socket, 6Pin, Horizontal, Big Pads,
 Mini Universal Mate-N-Lok Socket, 6Pin, Horizontal, Big Pads,
 0
 6
 6
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_6PinVertical
 Mini Universal Mate-N-Lok Socket, 6Pin, Vertical,
 Mini Universal Mate-N-Lok Socket, 6Pin, Vertical,
 0
 6
 6
-0
-0
+Sockets_Mini-Universal
+MiniUniversalMate-N-LokSocket_6PinVertical_BigPads
 Mini Universal Mate-N-Lok Socket, 6Pin, Vertical, Big Pads,
 Mini Universal Mate-N-Lok Socket, 6Pin, Vertical, Big Pads,
 0
 6
 6
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight
 Socket, MOLEX, KK, RM 2.54mm, Lock, 2pin, straight,
 Socket, MOLEX, KK, RM 2.54mm, Lock, 2pin, straight,
 0
 2
 2
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM2-54mm_Lock_3pin_straight
 Socket, MOLEX, KK, RM 2.54mm, Lock, 3pin, straight,
 Socket, MOLEX, KK, RM 2.54mm, Lock, 3pin, straight,
 0
 3
 3
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM2-54mm_Lock_4pin_straight
 Socket, MOLEX, KK, RM 2.54mm, Lock, 4pin, straight,
 Socket, MOLEX, KK, RM 2.54mm, Lock, 4pin, straight,
 0
 4
 4
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM2-54mm_Lock_5pin_straight
 Socket, MOLEX, KK, RM 2.54mm, Lock, 5pin, straight,
 Socket, MOLEX, KK, RM 2.54mm, Lock, 5pin, straight,
 0
 5
 5
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM2-54mm_Lock_6pin_straight
 Socket, MOLEX, KK, RM 2.54mm, Lock, 6pin, straight,
 Socket, MOLEX, KK, RM 2.54mm, Lock, 6pin, straight,
 0
 6
 6
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM3-96mm_Lock_2pin_straight
 Socket, MOLEX, KK, RM 3.96mm, Lock, 2pin, straight,
 Socket, MOLEX, KK, RM 3.96mm, Lock, 2pin, straight,
 0
 2
 2
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM3-96mm_Lock_3pin_straight
 Socket, MOLEX, KK, RM 3.96mm, Lock, 3pin, straight,
 Socket, MOLEX, KK, RM 3.96mm, Lock, 3pin, straight,
 0
 3
 3
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM3-96mm_Lock_4pin_straight
 Socket, MOLEX, KK, RM 3.96mm, Lock, 4pin, straight,
 Socket, MOLEX, KK, RM 3.96mm, Lock, 4pin, straight,
 0
 4
 4
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM3-96mm_Lock_5pin_straight
 Socket, MOLEX, KK, RM 3.96mm, Lock, 5pin, straight,
 Socket, MOLEX, KK, RM 3.96mm, Lock, 5pin, straight,
 0
 5
 5
-0
-0
+Sockets_MOLEX_KK-System
+Socket_MOLEX-KK-RM3-96mm_Lock_6pin_straight
 Socket, MOLEX, KK, RM 3.96mm, Lock, 6pin, straight,
 Socket, MOLEX, KK, RM 3.96mm, Lock, 6pin, straight,
 0
 6
 6
-0
-0
+Sockets_WAGO734
+WAGO_734_2pin_Straight
 WAGO, Serie 734, Socket, Stiftleiste, 2 polig, 2 pin, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 2 polig, 2 pin, straight, gerade, Date 05Jul2010,
 0
 2
 2
-0
-0
+Sockets_WAGO734
+WAGO_734_2pin_Straight_RuggedPads
 WAGO, Serie 734, Socket, Stiftleiste, 2 polig, 2 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 2 polig, 2 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 0
 2
 2
-0
-0
+Sockets_WAGO734
+WAGO_734_3pin_Straight
 WAGO, Serie 734, Socket, Stiftleiste, 3 polig, 3 pin, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 3 polig, 3 pin, straight, gerade, Date 05Jul2010,
 0
 3
 3
-0
-0
+Sockets_WAGO734
+WAGO_734_3pin_Straight_RuggedPads
 WAGO, Serie 734, Socket, Stiftleiste, 3 polig, 3 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 3 polig, 3 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 0
 3
 3
-0
-0
+Sockets_WAGO734
+WAGO_734_4pin_Straight
 WAGO, Serie 734, Socket, Stiftleiste, 4 polig, 4 pin, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 4 polig, 4 pin, straight, gerade, Date 05Jul2010,
 0
 4
 4
-0
-0
+Sockets_WAGO734
+WAGO_734_4pin_Straight_RuggedPads
 WAGO, Serie 734, Socket, Stiftleiste, 4 polig, 4 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 4 polig, 4 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 0
 4
 4
-0
-0
+Sockets_WAGO734
+WAGO_734_5pin_Straight
 WAGO, Serie 734, Socket, Stiftleiste, 5 polig, 5 pin, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 5 polig, 5 pin, straight, gerade, Date 05Jul2010,
 0
 5
 5
-0
-0
+Sockets_WAGO734
+WAGO_734_5pin_Straight_RuggedPads
 WAGO, Serie 734, Socket, Stiftleiste, 5 polig, 5 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 5 polig, 5 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 0
 5
 5
-0
-0
+Sockets_WAGO734
+WAGO_734_6pin_Straight
 WAGO, Serie 734, Socket, Stiftleiste, 6 polig, 6 pin, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 6 polig, 6 pin, straight, gerade, Date 05Jul2010,
 0
 6
 6
-0
-0
+Sockets_WAGO734
+WAGO_734_6pin_Straight_RuggedPads
 WAGO, Serie 734, Socket, Stiftleiste, 6 polig, 6 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 6 polig, 6 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 0
 6
 6
-0
-0
+Sockets_WAGO734
+WAGO_734_12Pin_Straight
 WAGO, Serie 734, Socket, Stiftleiste, 12 polig, 12 pin, straight, gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 12 polig, 12 pin, straight, gerade, Date 05Jul2010,
 0
 12
 12
-0
-0
+Sockets_WAGO734
+WAGO_734_12Pin_Straight_RuggedPads
 WAGO, Serie 734, Socket, Stiftleiste, 12 polig, 12 pin, rugged Pads, straight,  gerade, Date 05Jul2010,
 WAGO, Serie 734, Socket, Stiftleiste, 12 polig, 12 pin, rugged Pads, straight, gerade, Date 05Jul2010,
 0
 12
 12
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x01
 Through hole socket strip
 socket strip
 0
 1
 1
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x02
 Through hole socket strip
 socket strip
 0
 2
 2
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x03
 Through hole socket strip
 socket strip
 0
 3
 3
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x04
 Through hole socket strip
 socket strip
 0
 4
 4
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x05
 Through hole socket strip
 socket strip
 0
 5
 5
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x06
 Through hole socket strip
 socket strip
 0
 6
 6
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x07
 Through hole socket strip
 socket strip
 0
 7
 7
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x08
 Through hole socket strip
 socket strip
 0
 8
 8
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x09
 Through hole socket strip
 socket strip
 0
 9
 9
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x10
 Through hole socket strip
 socket strip
 0
 10
 10
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x11
 Through hole socket strip
 socket strip
 0
 11
 11
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x12
 Through hole socket strip
 socket strip
 0
 12
 12
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x13
 Through hole socket strip
 socket strip
 0
 13
 13
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x14
 Through hole socket strip
 socket strip
 0
 14
 14
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x15
 Through hole socket strip
 socket strip
 0
 15
 15
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x16
 Through hole socket strip
 socket strip
 0
 16
 16
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x17
 Through hole socket strip
 socket strip
 0
 17
 17
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x18
 Through hole socket strip
 socket strip
 0
 18
 18
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x19
 Through hole socket strip
 socket strip
 0
 19
 19
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x20
 Through hole socket strip
 socket strip
 0
 20
 20
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x21
 Through hole socket strip
 socket strip
 0
 21
 21
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x22
 Through hole socket strip
 socket strip
 0
 22
 22
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x23
 Through hole socket strip
 socket strip
 0
 23
 23
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x24
 Through hole socket strip
 socket strip
 0
 24
 24
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x25
 Through hole socket strip
 socket strip
 0
 25
 25
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x26
 Through hole socket strip
 socket strip
 0
 26
 26
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x27
 Through hole socket strip
 socket strip
 0
 27
 27
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x28
 Through hole socket strip
 socket strip
 0
 28
 28
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x29
 Through hole socket strip
 socket strip
 0
 29
 29
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x30
 Through hole socket strip
 socket strip
 0
 30
 30
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x31
 Through hole socket strip
 socket strip
 0
 31
 31
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x32
 Through hole socket strip
 socket strip
 0
 32
 32
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x33
 Through hole socket strip
 socket strip
 0
 33
 33
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x34
 Through hole socket strip
 socket strip
 0
 34
 34
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x35
 Through hole socket strip
 socket strip
 0
 35
 35
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x36
 Through hole socket strip
 socket strip
 0
 36
 36
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x37
 Through hole socket strip
 socket strip
 0
 37
 37
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x38
 Through hole socket strip
 socket strip
 0
 38
 38
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x39
 Through hole socket strip
 socket strip
 0
 39
 39
-0
-0
+Socket_Strips
+Socket_Strip_Angled_1x40
 Through hole socket strip
 socket strip
 0
 40
 40
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x01
 Through hole socket strip
 socket strip
 0
 2
 2
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x02
 Through hole socket strip
 socket strip
 0
 4
 4
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x03
 Through hole socket strip
 socket strip
 0
 6
 6
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x04
 Through hole socket strip
 socket strip
 0
 8
 8
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x05
 Through hole socket strip
 socket strip
 0
 10
 10
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x06
 Through hole socket strip
 socket strip
 0
 12
 12
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x07
 Through hole socket strip
 socket strip
 0
 14
 14
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x08
 Through hole socket strip
 socket strip
 0
 16
 16
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x09
 Through hole socket strip
 socket strip
 0
 18
 18
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x10
 Through hole socket strip
 socket strip
 0
 20
 20
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x11
 Through hole socket strip
 socket strip
 0
 22
 22
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x12
 Through hole socket strip
 socket strip
 0
 24
 24
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x13
 Through hole socket strip
 socket strip
 0
 26
 26
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x14
 Through hole socket strip
 socket strip
 0
 28
 28
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x15
 Through hole socket strip
 socket strip
 0
 30
 30
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x16
 Through hole socket strip
 socket strip
 0
 32
 32
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x17
 Through hole socket strip
 socket strip
 0
 34
 34
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x18
 Through hole socket strip
 socket strip
 0
 36
 36
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x19
 Through hole socket strip
 socket strip
 0
 38
 38
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x20
 Through hole socket strip
 socket strip
 0
 40
 40
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x21
 Through hole socket strip
 socket strip
 0
 42
 42
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x22
 Through hole socket strip
 socket strip
 0
 44
 44
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x23
 Through hole socket strip
 socket strip
 0
 46
 46
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x24
 Through hole socket strip
 socket strip
 0
 48
 48
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x25
 Through hole socket strip
 socket strip
 0
 50
 50
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x26
 Through hole socket strip
 socket strip
 0
 52
 52
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x27
 Through hole socket strip
 socket strip
 0
 54
 54
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x28
 Through hole socket strip
 socket strip
 0
 56
 56
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x29
 Through hole socket strip
 socket strip
 0
 58
 58
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x30
 Through hole socket strip
 socket strip
 0
 60
 60
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x31
 Through hole socket strip
 socket strip
 0
 62
 62
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x32
 Through hole socket strip
 socket strip
 0
 64
 64
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x33
 Through hole socket strip
 socket strip
 0
 66
 66
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x34
 Through hole socket strip
 socket strip
 0
 68
 68
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x35
 Through hole socket strip
 socket strip
 0
 70
 70
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x36
 Through hole socket strip
 socket strip
 0
 72
 72
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x37
 Through hole socket strip
 socket strip
 0
 74
 74
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x38
 Through hole socket strip
 socket strip
 0
 76
 76
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x39
 Through hole socket strip
 socket strip
 0
 78
 78
-0
-0
+Socket_Strips
+Socket_Strip_Angled_2x40
 Through hole socket strip
 socket strip
 0
 80
 80
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x01
 Through hole socket strip
 socket strip
 0
 1
 1
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x02
 Through hole socket strip
 socket strip
 0
 2
 2
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x03
 Through hole socket strip
 socket strip
 0
 3
 3
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x04
 Through hole socket strip
 socket strip
 0
 4
 4
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x05
 Through hole socket strip
 socket strip
 0
 5
 5
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x06
 Through hole socket strip
 socket strip
 0
 6
 6
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x07
 Through hole socket strip
 socket strip
 0
 7
 7
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x08
 Through hole socket strip
 socket strip
 0
 8
 8
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x09
 Through hole socket strip
 socket strip
 0
 9
 9
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x10
 Through hole socket strip
 socket strip
 0
 10
 10
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x11
 Through hole socket strip
 socket strip
 0
 11
 11
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x12
 Through hole socket strip
 socket strip
 0
 12
 12
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x13
 Through hole socket strip
 socket strip
 0
 13
 13
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x14
 Through hole socket strip
 socket strip
 0
 14
 14
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x15
 Through hole socket strip
 socket strip
 0
 15
 15
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x16
 Through hole socket strip
 socket strip
 0
 16
 16
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x17
 Through hole socket strip
 socket strip
 0
 17
 17
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x18
 Through hole socket strip
 socket strip
 0
 18
 18
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x19
 Through hole socket strip
 socket strip
 0
 19
 19
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x20
 Through hole socket strip
 socket strip
 0
 20
 20
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x21
 Through hole socket strip
 socket strip
 0
 21
 21
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x22
 Through hole socket strip
 socket strip
 0
 22
 22
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x23
 Through hole socket strip
 socket strip
 0
 23
 23
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x24
 Through hole socket strip
 socket strip
 0
 24
 24
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x25
 Through hole socket strip
 socket strip
 0
 25
 25
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x26
 Through hole socket strip
 socket strip
 0
 26
 26
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x27
 Through hole socket strip
 socket strip
 0
 27
 27
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x28
 Through hole socket strip
 socket strip
 0
 28
 28
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x29
 Through hole socket strip
 socket strip
 0
 29
 29
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x30
 Through hole socket strip
 socket strip
 0
 30
 30
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x31
 Through hole socket strip
 socket strip
 0
 31
 31
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x32
 Through hole socket strip
 socket strip
 0
 32
 32
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x33
 Through hole socket strip
 socket strip
 0
 33
 33
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x34
 Through hole socket strip
 socket strip
 0
 34
 34
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x35
 Through hole socket strip
 socket strip
 0
 35
 35
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x36
 Through hole socket strip
 socket strip
 0
 36
 36
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x37
 Through hole socket strip
 socket strip
 0
 37
 37
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x38
 Through hole socket strip
 socket strip
 0
 38
 38
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x39
 Through hole socket strip
 socket strip
 0
 39
 39
-0
-0
+Socket_Strips
+Socket_Strip_Straight_1x40
 Through hole socket strip
 socket strip
 0
 40
 40
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x01
 Through hole socket strip
 socket strip
 0
 2
 2
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x02
 Through hole socket strip
 socket strip
 0
 4
 4
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x03
 Through hole socket strip
 socket strip
 0
 6
 6
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x04
 Through hole socket strip
 socket strip
 0
 8
 8
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x05
 Through hole socket strip
 socket strip
 0
 10
 10
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x06
 Through hole socket strip
 socket strip
 0
 12
 12
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x07
 Through hole socket strip
 socket strip
 0
 14
 14
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x08
 Through hole socket strip
 socket strip
 0
 16
 16
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x09
 Through hole socket strip
 socket strip
 0
 18
 18
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x10
 Through hole socket strip
 socket strip
 0
 20
 20
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x11
 Through hole socket strip
 socket strip
 0
 22
 22
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x12
 Through hole socket strip
 socket strip
 0
 24
 24
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x13
 Through hole socket strip
 socket strip
 0
 26
 26
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x14
 Through hole socket strip
 socket strip
 0
 28
 28
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x15
 Through hole socket strip
 socket strip
 0
 30
 30
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x16
 Through hole socket strip
 socket strip
 0
 32
 32
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x17
 Through hole socket strip
 socket strip
 0
 34
 34
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x18
 Through hole socket strip
 socket strip
 0
 36
 36
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x19
 Through hole socket strip
 socket strip
 0
 38
 38
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x20
 Through hole socket strip
 socket strip
 0
 40
 40
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x21
 Through hole socket strip
 socket strip
 0
 42
 42
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x22
 Through hole socket strip
 socket strip
 0
 44
 44
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x23
 Through hole socket strip
 socket strip
 0
 46
 46
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x24
 Through hole socket strip
 socket strip
 0
 48
 48
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x25
 Through hole socket strip
 socket strip
 0
 50
 50
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x26
 Through hole socket strip
 socket strip
 0
 52
 52
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x27
 Through hole socket strip
 socket strip
 0
 54
 54
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x28
 Through hole socket strip
 socket strip
 0
 56
 56
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x29
 Through hole socket strip
 socket strip
 0
 58
 58
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x30
 Through hole socket strip
 socket strip
 0
 60
 60
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x31
 Through hole socket strip
 socket strip
 0
 62
 62
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x32
 Through hole socket strip
 socket strip
 0
 64
 64
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x33
 Through hole socket strip
 socket strip
 0
 66
 66
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x34
 Through hole socket strip
 socket strip
 0
 68
 68
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x35
 Through hole socket strip
 socket strip
 0
 70
 70
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x36
 Through hole socket strip
 socket strip
 0
 72
 72
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x37
 Through hole socket strip
 socket strip
 0
 74
 74
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x38
 Through hole socket strip
 socket strip
 0
 76
 76
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x39
 Through hole socket strip
 socket strip
 0
 78
 78
-0
-0
+Socket_Strips
+Socket_Strip_Straight_2x40
 Through hole socket strip
 socket strip
 0
 80
 80
-0
-0
+Symbols
+Symbol_Attention_CopperTop_Big
 Symbol, Attention, Copper Top, Big,
 Symbol, Attention, Copper Top, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_Attention_CopperTop_Small
 Symbol, Attention, Copper Top, Small,
 Symbol, Attention, Copper Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CC-Attribution_CopperTop_Big
 Symbol, CC-Attribution, Copper Top, Big,
 Symbol, CC-Attribution, Copper Top, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CC-Attribution_CopperTop_Small
 Symbol, CC-Share Alike, Copper Top, Small,
 Symbol, CC-Share Alike, Copper Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CC-Noncommercial_CopperTop_Big
 Symbol, CC-Noncommercial, Copper Top, Big,
 Symbol, CC-Noncommercial, Copper Top, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CC-Noncommercial_CopperTop_Small
 Symbol, CC-Noncommercial Alike, Copper Top, Small,
 Symbol, CC-Noncommercial Alike, Copper Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CC-PublicDomain_CopperTop_Big
 Symbol, CC-PublicDomain, Copper Top, Big,
 Symbol, CC-PublicDomain, Copper Top, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CC-PublicDomain_CopperTop_Small
 Symbol, CC-Public Domain, Copper Top, Small,
 Symbol, CC-Public Domain, Copper Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CC-PublicDomain_SilkScreenTop_Big
 Symbol, CC-PublicDomain, SilkScreen Top, Big,
 Symbol, CC-PublicDomain, SilkScreen Top, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CC-ShareAlike_CopperTop_Big
 Symbol, CC-Share Alike, Copper Top, Big,
 Symbol, CC-Share Alike, Copper Top, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CC-ShareAlike_CopperTop_Small
 Symbol, CC-Share Alike, Copper Top, Small,
 Symbol, CC-Share Alike, Copper Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CE_SilkScreen_5mm
 
 
 0
 0
 0
-0
-0
+Symbols
+Symbol_CreativeCommonsPublicDomain_CopperTop_Small
 Symbol, Creative Commons Public Domain, CopperTop, Small,
 Symbol, Creative Commons Public Domain, CopperTop, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small
 Symbol, Creative Commons Public Domain, SilkScreenTop, Small,
 Symbol, Creative Commons Public Domain, SilkScreen Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CreativeCommons_CopperTop_Type1_Big
 Symbol, Creative Commons, CopperTop, Type 1, Big,
 Symbol, Creative Commons, CopperTop, Type 1, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CreativeCommons_CopperTop_Type2_Big
 Symbol, Creative Commons, CopperTop, Type 2, Big,
 Symbol, Creative Commons, CopperTop, Type 2, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CreativeCommons_CopperTop_Type2_Small
 Symbol, Creative Commons, CopperTop, Type 2, Small,
 Symbol, Creative Commons, CopperTop, Type 2, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_CreativeCommons_SilkScreenTop_Type2_Big
 Symbol, Creative Commons, SilkScreen Top, Type 2, Big,
 Symbol, Creative Commons, SilkScreen Top, Type 2, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_Danger_CopperTop_Big
 Symbol, Danger, CopperTop, Big,
 Symbol, Danger, CopperTop, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_Danger_CopperTop_Small
 Symbol, Danger, Copper Top, Small,
 Symbol, Danger, Copper Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_ESD-Logo-Text_CopperTop
 
 
 0
 0
 0
-0
-0
+Symbols
+Symbol_ESD-Logo_CopperTop
 ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,
 ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,
 0
 0
 0
-0
-0
+Symbols
+Symbol_GNU-GPL_CopperTop_Big
 Symbol, GNU-GPL, Copper Top, Big,
 Symbol, GNU-GPL, Copper Top, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_GNU-GPL_CopperTop_Small
 Symbol, GNU-GPL, Copper Top, Small,
 Symbol, GNU-GPL, Copper Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_GNU-Logo_CopperTop
 GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,
 GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,
 0
 0
 0
-0
-0
+Symbols
+Symbol_GNU-Logo_SilkscreenTop
 GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,
 GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,
 0
 0
 0
-0
-0
+Symbols
+Symbol_HighVoltage_Type1_CopperTop_Big
 Symbol, HighVoltage, Type1, Copper Top, Big,
 Symbol, HighVoltage, Type1, Copper Top, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_Highvoltage_Type1_CopperTop_Small
 Symbol, Highvoltage, Type 1, Copper Top, Small,
 Symbol, Highvoltage, Type 1, Copper Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_HighVoltage_Type2_CopperTop_Big
 Symbol, HighVoltage, Type2, Copper Top, Big,
 Symbol, HighVoltage, Type2, Copper Top, Big,
 0
 0
 0
-0
-0
+Symbols
+Symbol_Highvoltage_Type2_CopperTop_Small
 Symbol, Highvoltage, Type 2, Copper Top, Small,
 Symbol, Highvoltage, Type 2, Copper Top, Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_HighVoltage_Type2_CopperTop_VerySmall
 Symbol, High Voltage, Type 2, Copper Top, Very Small,
 Symbol, High Voltage, Type 2, Copper Top, Very Small,
 0
 0
 0
-0
-0
+Symbols
+Symbol_OSHW-Logo_CopperTop
 Symbol, OSHW-Logo, Copper Top,
 Symbol, OSHW-Logo, Copper Top,
 0
 0
 0
-0
-0
+Symbols
+Symbol_OSHW-Logo_CopperTop_BIG
 Symbol, OSHW-Logo, Copper Top, BIG
 Symbol, OSHW-Logo, Copper Top, BIG
 0
 0
 0
-0
-0
+Symbols
+Symbol_OSHW-Logo_CopperTop_Negative
 Symbol, OSHW-Logo, Copper top, Negative,
 Symbol, OSHW-Logo, Copper top, Negative,
 0
 0
 0
-0
-0
+Symbols
+Symbol_OSHW-Logo_SilkScreen
 Symbol, OSHW-Logo, Silk Screen,
 Symbol, OSHW-Logo, Silk Screen,
 0
 0
 0
-0
-0
+Symbols
+Symbol_OSHW-Logo_SilkScreen_BIG
 Symbol, OSHW-Logo, Silk Screen, BIG
 Symbol, OSHW-Logo, Silk Screen, BIG
 0
 0
 0
-0
-0
+Terminal_Blocks
+ML-30_2
 
 
 0
 2
 2
-0
-0
+Terminal_Blocks
+ML-250_2
 
 
 0
 2
 2
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-2pol
 2-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 2
 2
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-3pol
 3-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 3
 3
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-4pol
 4-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 4
 4
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-5pol
 5-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 5
 5
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-6pol
 6-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 6
 6
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-7pol
 7-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 7
 7
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-8pol
 8-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 8
 8
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-9pol
 9-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 9
 9
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-10pol
 10-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 10
 10
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-11pol
 11-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 11
 11
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-12pol
 12-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 12
 12
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-13pol
 13-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 13
 13
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-14pol
 14-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 14
 14
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-15pol
 15-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 15
 15
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MKDS1.5-16pol
 16-way 5mm pitch terminal block, Phoenix MKDS series
 
 0
 16
 16
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_2pol
 2-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 2
 2
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_3pol
 3-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 3
 3
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_4pol
 4-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 4
 4
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_5pol
 5-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 5
 5
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_6pol
 6-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 6
 6
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_7pol
 7-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 7
 7
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_8pol
 8-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 8
 8
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_9pol
 9-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 9
 9
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_10pol
 10-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 10
 10
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_11pol
 11-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 11
 11
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_MPT-2.54mm_12pol
 12-way 2.54mm pitch terminal block, Phoenix MPT series
 
 0
 12
 12
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_2pol
 2-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 2
 2
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_3pol
 3-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 3
 3
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_4pol
 4-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 4
 4
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_5pol
 5-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 5
 5
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_6pol
 6-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 6
 6
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_7pol
 7-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 7
 7
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_8pol
 8-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 8
 8
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_9pol
 9-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 9
 9
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_10pol
 10-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 10
 10
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_11pol
 11-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 11
 11
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_12pol
 12-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 12
 12
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_13pol
 13-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 13
 13
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_14pol
 14-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 14
 14
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_15pol
 15-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 15
 15
-0
-0
+Terminal_Blocks
+TerminalBlock_Pheonix_PT-3.5mm_16pol
 16-way 3.5mm pitch terminal block, Phoenix PT series
 
 0
 16
 16
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_1pol
 WAGO-Series 236, 2Stift, 1pol, RM 5mm,
 WAGO-Series 236, 2Stift, 1pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 2
 1
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_2pol
 WAGO-Series 236, 2Stift, 2pol, RM 5mm,
 WAGO-Series 236, 2Stift, 2pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 4
 2
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_3pol
 WAGO-Series 236, 2Stift, 3pol, RM 5mm,
 WAGO-Series 236, 2Stift, 3pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 6
 3
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_4pol
 WAGO-Series 236, 2Stift, 4pol, RM 5mm,
 WAGO-Series 236, 2Stift, 4pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 8
 4
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_5pol
 WAGO-Series 236, 2Stift, 5pol, RM 5mm,
 WAGO-Series 236, 2Stift, 5pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 10
 5
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_6pol
 WAGO-Series 236, 2Stift, 6pol, RM 5mm,
 WAGO-Series 236, 2Stift, 6pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 12
 6
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_7pol
 WAGO-Series 236, 2Stift, 7pol, RM 5mm,
 WAGO-Series 236, 2Stift, 7pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 14
 7
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_8pol
 WAGO-Series 236, 2Stift, 8pol, RM 5mm,
 WAGO-Series 236, 2Stift, 8pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 16
 8
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_9pol
 WAGO-Series 236, 2Stift, 9pol, RM 5mm,
 WAGO-Series 236, 2Stift, 9pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 18
 9
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-236_2Stift_RM5mm_10pol
 WAGO-Series 236, 2Stift, 10pol, RM 5mm,
 WAGO-Series 236, 2Stift, 10pol, RM 5mm, Anreibare Leiterplattenklemme
 0
 20
 10
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_1pol
 
 
 0
 2
 1
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_2pol
 
 
 0
 4
 2
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_3pol
 
 
 0
 6
 3
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_4pol
 
 
 0
 8
 4
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_5pol
 
 
 0
 10
 5
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_6pol
 
 
 0
 12
 6
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_7pol
 
 
 0
 14
 7
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_8pol
 
 
 0
 16
 8
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_9pol
 
 
 0
 18
 9
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM5mm_10pol
 
 
 0
 20
 10
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM7.5mm_1pol
 
 
 0
 2
 1
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM7.5mm_2pol
 
 
 0
 4
 2
-0
-0
+Terminal_Blocks
+TerminalBlock_WAGO-804_RM7.5mm_3pol
 
 
 0
 6
 3
-0
-0
+TO_SOT_Packages_SMD
+D2-PAK
 SOT404
 
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+D2-PAK_GateEllipce
 SOT404
 
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+PowerMacro_M234_NoHole
 
 TO-50-4, Power Macro, Package Style M234
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+PowerMacro_M234_WithHole
 
 TO-50-4, Power Macro, Package Style M234
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+SC-70
 SC70 SOT323
 
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+SC-70-5
 SC70-5 SOT323-5
 
 0
 5
 5
-0
-0
+TO_SOT_Packages_SMD
+SC-70-6
 SC-70-6,
 SC-70-6,
 0
 6
 6
-0
-0
+TO_SOT_Packages_SMD
+SC-70-6_Handsoldering
 SC-70-6, Handsoldering,
 SC-70-6, Handsoldering,
 0
 6
 6
-0
-0
+TO_SOT_Packages_SMD
+SOT-23
 SOT-23, Standard
 SOT-23
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+SOT-23-5
 5-pin SOT23 package
 SOT-23-5
 0
 5
 5
-0
-0
+TO_SOT_Packages_SMD
+SOT-23-6
 6-pin SOT-23 package
 SOT-23-6
 0
 6
 6
-0
-0
+TO_SOT_Packages_SMD
+SOT-23_Handsoldering
 SOT-23, Handsoldering
 SOT-23
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+SOT-143
 SOT-143
 SOT-143
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+SOT-143R_Reverse
 SOT-143R, Reverse
 SOT-143R, Reverse
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+SOT-143R_Reverse_Handsoldering
 SOT-143R, Reverse, Handsoldering,
 SOT-143, Reverse, Handsoldering,
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+SOT-143_Handsoldering
 SOT-143, Handsoldering
 SOT-143, Handsoldering
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+SOT-223
 module CMS SOT223 4 pins
 CMS SOT
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+SOT-223_reg
 
 
 0
 4
 3
-0
-0
+TO_SOT_Packages_SMD
+SOT-223_regul
 module CMS SOT223 4 pins
 CMS SOT
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+SOT-323
 
 SMD SOT
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+SOT-353
 SOT353
 
 0
 5
 5
-0
-0
+TO_SOT_Packages_SMD
+SOT-404
 SOT404
 
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+SOT-428
 SOT428
 
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+SOT-543
 SOT-543 4 lead surface package
 SOT-543 SC-107A EMD4
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+SOT-553
 SOT553
 
 0
 5
 5
-0
-0
+TO_SOT_Packages_SMD
+SOT-669_LFPAK
 LFPAK www.nxp.com/documents/leaflet/939775016838_LR.pdf
 LFPAK SOT-669 Power-SO8
 0
 19
 5
-0
-0
+TO_SOT_Packages_SMD
+SOT-669_LFPAK_ThermalVias-1
 LFPAK www.nxp.com/documents/leaflet/939775016838_LR.pdf
 LFPAK SOT669 Thermal Vias 0.4mm Power-SO8
 0
 65
 5
-0
-0
+TO_SOT_Packages_SMD
+SOT-669_LFPAK_ThermalVias-2
 LFPAK www.nxp.com/documents/leaflet/939775016838_LR.pdf
 LFPAK SOT669 Thermical Vias Power-SO8
 0
 30
 5
-0
-0
+TO_SOT_Packages_SMD
+SOT-886
 
 
 0
 6
 6
-0
-0
+TO_SOT_Packages_SMD
+SOT89-3_Housing
 SOT89-3, Housing,
 SOT89-3, Housing,
 0
 5
 3
-0
-0
+TO_SOT_Packages_SMD
+SOT89-3_Housing_Handsoldering
 SOT89-3, Housing, Handsoldering,
 SOT89-3, Housing, Handsoldering,
 0
 5
 3
-0
-0
+TO_SOT_Packages_SMD
+SOT89-5_Housing
 SOT89-5, Housing,
 SOT89-5, Housing,
 0
 9
 5
-0
-0
+TO_SOT_Packages_SMD
+SOT89-5_Housing_Handsoldering
 SOT89-5, Housing, Handsoldering,
 SOT89-5, Housing, Handsoldering,
 0
 9
 5
-0
-0
+TO_SOT_Packages_SMD
+TO-50-3_LongPad-NoHole_Housing
 
 TO-50-3, Macro T, Package Style M236
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+TO-50-3_LongPad-WithHole_Housing
 
 TO-50-3, Macro T, Package Style M236
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+TO-50-3_ShortPad-NoHole_Housing
 
 TO-50-3, Macro T, Package Style M236
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+TO-50-3_ShortPad-WithHole_Housing
 
 TO-50-3, Macro T, Package Style M236
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+TO-50-4_LongPad-NoHole_Housing
 
 TO-50-4, Macro X, Package Style M238
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+TO-50-4_LongPad-WithHole_Housing
 
 TO-50-4, Macro X, Package Style M238
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+TO-50-4_ShortPad-NoHole_Housing
 
 TO-50-4, Macro X, Package Style M238
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+TO-50-4_ShortPad-WithHole_Housing
 
 TO-50-4, Macro X, Package Style M238
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+TO-223
 
 
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+TO-252-2Lead
 DPAK / TO-252 2-lead smd package
 dpak TO-252
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+TO-252-2Lead_regu
 DPAK / TO-252 2-lead smd package
 dpak TO-252
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+TO-263-3Lead
 D2PAK / TO-263 3-lead smd package
 D2PAK D2PAK-3 TO-263AB TO-263
 0
 4
 4
-0
-0
+TO_SOT_Packages_SMD
+TO-263-5Lead
 D2PAK / TO-263 3-lead smd package
 D2PAK D2PAK-3 TO-263AB TO-263
 0
 6
 5
-0
-0
+TO_SOT_Packages_SMD
+TO-277A
 Thermal enhanced ultra thin SMD package; 3 leads; body: 5.8 x 4.3 x 0.78 mm
 TO-277A SOT-1289
 0
 3
 3
-0
-0
+TO_SOT_Packages_SMD
+TSOT-6-MK06A
 TSOP-6 MK06A housing 6pin
 
 0
 6
 6
-0
-0
+TO_SOT_Packages_SMD
+TSOT-6-MK06A_Handsoldering
 TSOP-6 MK06A housing 6pin
 
 0
 6
 6
-0
-0
+TO_SOT_Packages_THT
+Diode_TO-220_Vertical
 TO-220, Diode, Vertical,
 TO-220, Diode, Vertical,
 0
 2
 2
-0
-0
+TO_SOT_Packages_THT
+Multiwatt_15_Horizontal
 http://www.bdtic.com/DownLoad/ST/CD00004656.pdf
 
 0
 15
 15
-0
-0
+TO_SOT_Packages_THT
+Multiwatt_15_Vertical
 http://www.icbuy.com/education/package/mode_name/upload/education/package/061106/1737460368586001162805866.pdf
 
 0
 15
 15
-0
-0
+TO_SOT_Packages_THT
+Pentawatt_Neutral_Staggered-Typ1_Horizontal_TO220-5-TA05B
 Pentawatt, Neutral, Staggered Typ 1, Horizontal, TO220-5, TA05B,
 Pentawatt, Neutral, Staggered Typ 1, Horizontal, TO220-5, TA05B,
 0
 5
 5
-0
-0
+TO_SOT_Packages_THT
+Pentawatt_Neutral_Staggered-Typ2_Horizontal_TO220-5-T05E
 Pentawatt, Neutral, Staggered Typ 2, Horizontal, TO220-5, T05E,
 Pentawatt, Neutral, Staggered Typ 2, Horizontal, TO220-5, T05E,
 0
 5
 5
-0
-0
+TO_SOT_Packages_THT
+Pentawatt_Neutral_Staggered_Verical_TO220-5-T05D
 Pentawatt, Neutral, Staggered, Verical, TO220-5, T05D,
 Pentawatt, Neutral, Staggered, Verical, TO220-5, T05D,
 0
 5
 5
-0
-0
+TO_SOT_Packages_THT
+Pentawatt_Neutral_Straight_Vertical_TO220-5-T05A
 Pentawatt_Neutral_Straight_Vertical_TO220-5-T05A
 Pentawatt_Neutral_Straight_Vertical_TO220-5-T05A
 0
 5
 5
-0
-0
+TO_SOT_Packages_THT
+SOT126_SOT32_Housing_Horizontal
 SOT126, SOT32, Housing, Horizontal,
 SOT126, SOT32, Housing, Horizontal,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+SOT126_SOT32_Housing_Horizontal_Reverse
 SOT126, SOT32, Housing, Horizontal, Reverse,
 SOT126, SOT32, Housing, Horizontal, Reverse,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+SOT126_SOT32_Housing_Vertical
 SOT126, SOT32, Housing, Vertical,
 SOT126, SOT32, Housing, Vertical,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+SOT126_SOT32_Housing_Vertical_BigPads
 SOT126, SOT32, Housing, Vertical, Big Pads,
 SOT126, SOT32, Housing, Vertical, Big Pads,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+SOT126_SOT32_Housing_Vertical_Mirrored
 SOT126, SOT32, Housing, Vertical, Mirrored,
 SOT126, SOT32, Housing, Vertical, Mirrored,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-12_TO-33_4Pin
 TO-12, TO-33, 4Pin,
 TO-12, TO-33, 4Pin,
 0
 4
 4
-0
-0
+TO_SOT_Packages_THT
+TO-18_2Pin
 TO-18, 2Pin,
 TO-18, 2Pin,
 0
 2
 2
-0
-0
+TO_SOT_Packages_THT
+TO-18_3Pin
 TO-18, 3Pin,
 TO-18, 3Pin,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-43_3Pin
 TO-43,  3Pin,
 TO-43,  3Pin,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-72_4Pin
 TO-72, 4 Pin,
 TO-72, 4 Pin,
 0
 4
 4
-0
-0
+TO_SOT_Packages_THT
+TO-78_Housing_6Pin
 TO-78, 6 Pin,
 TO-78, 6 Pin,
 0
 6
 6
-0
-0
+TO_SOT_Packages_THT
+TO-78_Housing_8Pin
 TO-78, 8 Pin,
 TO-78, 8 Pin,
 0
 8
 6
-0
-0
+TO_SOT_Packages_THT
+TO-78_Housing_10Pin
 TO-78, 10 Pin,
 TO-78, 10 Pin,
 0
 10
 10
-0
-0
+TO_SOT_Packages_THT
+TO-92_Horizontal1_Inline_Narrow_Oval
 TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Horizontal1_Molded_Narrow
 TO-92 horizontal, leads molded, narrow, drill 0.6mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Horizontal2_Inline_Narrow_Oval
 TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Horizontal2_Molded_Narrow
 TO-92 horizontal, leads molded, narrow, drill 0.6mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Inline_Narrow_Oval
 TO-92 leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Inline_Wide
 TO-92 leads in-line, wide, drill 0.8mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Molded_Narrow
 TO-92 leads molded, narrow, drill 0.6mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Molded_Narrow_Oval
 TO-92 leads molded, narrow, oval pads, drill 0.8mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Molded_Narrow_Reverse
 TO-92 leads molded, narrow, reverse, drill 0.6mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Molded_Wide
 TO-92 leads molded, wide, drill 0.8mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Molded_Wide_Oval
 TO-92 leads molded, wide, oval pads, drill 0.8mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Molded_Wide_Oval_Reverse
 TO-92 leads molded, wide, reverse, oval pads, drill 0.8mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Molded_Wide_Reverse
 TO-92 leads molded, wide, reverse, drill 0.8mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Rugged
 TO-92 rugged, leads molded, wide, drill 1mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-92_Rugged_Reverse
 TO-92 rugged, leads molded, wide, reverse, drill 1mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Horizontal
 TO-220, Neutral, Horizontal,
 TO-220, Neutral, Horizontal,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Horizontal_LargePads
 TO-220, Neutral, Horizontal, Large Pads,
 TO-220, Neutral, Horizontal, Large Pads,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Horizontal_MountedFromLS
 TO-220, Neutral, Horizontal, Mounted from LS,
 TO-220, Neutral, Horizontal, Mounted from LS,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Horizontal_MountedFromLS_LargePads
 TO-220, Neutral, Horizontal, Mounted from LS, large pads,
 TO-220, Neutral, Horizontal, Mounted from LS, large pads,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Horizontal_Reverse
 TO-220, Neutral, Horizontal, Reverse,
 TO-220, Neutral, Horizontal,  Reverse,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Horizontal_Reverse_LargePads
 TO-220, Neutral, Horizontal, Reverse, Large Pads,
 TO-220, Neutral, Horizontal,  Reverse, Large Pads,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_PadsOnly
 
 
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Vertical
 TO-220, Neutral, Vertical,
 TO-220, Neutral, Vertical,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Vertical_LargePads
 TO-220, Neutral, Vertical, Large Pads,
 TO-220, Neutral, Vertical, Large Pads,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Vertical_MountedFromLS
 TO-220, Neutral, Vertical, Mounted from LS,
 TO-220, Neutral, Vertical, Mounted from LS,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Neutral123_Vertical_MountedFromLS_LargePads
 TO-220, Neutral, Vertical, Mounted from LS, large Pads,
 TO-220, Neutral, Vertical, Mounted from LS, large Pads,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-220_Regul
 TO-220, Neutral, Vertical,
 TO-220, Neutral, Vertical,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Horizontal_Neutral123
 Transistor FET TO-247 TO-218 TOP-3, 1=Gate 2=Drain 3=Source, lying horizontal, Front upward
 Transistor FET GDS TO-247 TO-218 TOP-3
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Horizontal_Neutral123_largePads
 Transistor FET TO-247 TO-218 TOP-3, 1=Gate 2=Drain 3=Source, lying horizontal, Front upward, large Pads
 Transistor FET GDS TO-247 TO-218 TOP-3 large Pads
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Horizontal_Neutral123_MountFromLS
 Transistor FET TO-247 TO-218 TOP-3 lying horizontal, mounted from LS, 1=Gate 2=Drain 3=Source
 Transistor FET TO-247 TO-218 TOP-3 , LS mounted, GDS
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Horizontal_Neutral123_MountFromLS_largePads
 Transistor FET TO-247 TO-218 TOP-3 lying horizontal, mounted from LS, 1=Gate 2=Drain 3=Source
 Transistor FET TO-247 TO-218 TOP-3 , LS mounted, GDS
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Horizontal_Neutral123_Reverse
 Transistor FET TO-247 TO-218 TOP-3, 1=Gate 2=Drain 3=Source, lying horizontal, Backside upward
 Transistor FET TO-247 TO-218 TOP-3, GDS
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Horizontal_Neutral123_Reverse_largePads
 Transistor FET TO-247 TO-218 TOP-3, 1=Gate 2=Drain 3=Source, lying horizontal, Backside upward, large Pads
 Transistor FET TO-247 TO-218 TOP-3, GDS, large Pads
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_PadsOnly_Neutral123
 TO-247, Neutral, Pads Only,
 TO-247, Neutral, Pads Only,
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Vertical_Neutral123
 TO-247 TO-218 TOP-3 FET 1=Gate 2=Drain 3=Source Vertical
 Transistor FET TO-247 TO-218 TOP-3 Vertical
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Vertical_Neutral123_largePads
 TO-247 TO-218 TOP-3 FET 1=Gate 2=Drain 3=Source Vertical, large Pads
 Transistor FET TO-247 TO-218 TOP-3 Vertical
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Vertical_Neutral123_MountedFromLS
 TO-247 TO-218 TOP-3 FET 1=Gate 2=Drain 3=Source, Vertical, Mounted from LS
 Transistor FET TO-247 TO-218 TOP-3 Vertical, LS
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-247_Vertical_Neutral123_MountedFromLS_largePads
 TO-247 TO-218 TOP-3 FET 1=Gate 2=Drain 3=Source, Vertical, Mounted from LS, large Pads,
 Transistor FET TO-247 TO-218 TOP-3 Vertical, LS, large Pads
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO-251AA
 IPAK / TO-251AA 3-lead THT package
 ipak to-251aa to-251
 0
 3
 3
-0
-0
+TO_SOT_Packages_THT
+TO3
 Transistor TO3
 TR TO3
 0
 4
 3
-0
-0
+TO_SOT_Packages_THT
+TO39EBC
 Transistor TO38
 TO38
 0
 3
 3
-0
-0
+Transformers_CHK
+Trafo_CHK-EI30-2VA_1xSec
 Trafo, Printtrafo, CHK, EI30, 2VA, 1x Sec,
 Trafo, Printtrafo, CHK, EI30, 2VA, 1x Sec,
 0
 10
 10
-0
-0
+Transformers_CHK
+Trafo_CHK-EI30-2VA_2xSec
 Trafo, Printtrafo, CHK, EI30, 2VA, 2x Sec,
 Trafo, Printtrafo, CHK, EI30, 2VA, 2x Sec,
 0
 10
 10
-0
-0
+Transformers_CHK
+Trafo_CHK-EI30-2VA_Neutral
 Trafo, Printtrafo, CHK, EI30, 2VA, neutral,
 Trafo, Printtrafo, CHK, EI30, 2VA, neutral,
 0
 10
 10
-0
-0
+Transformers_CHK
+Trafo_CHK-EI38-3VA_1xSec
 Trafo, Printtrafo, CHK, EI38, 3VA, 1x Sec,
 Trafo, Printtrafo, CHK, EI38, 3VA, 1x Sec,
 0
 10
 10
-0
-0
+Transformers_CHK
+Trafo_CHK-EI38-3VA_2xSec
 Trafo, Printtrafo, CHK, EI38, 3VA, 2x Sec,
 Trafo, Printtrafo, CHK, EI38, 3VA, 2x Sec,
 0
 10
 10
-0
-0
+Transformers_CHK
+Trafo_CHK-EI38-3VA_Neutral
 Trafo, Printtrafo, CHK, EI38, 3VA, neutral,
 Trafo, Printtrafo, CHK, EI42, 3VA, neutral,
 0
 10
 10
-0
-0
+Transformers_CHK
+Trafo_CHK-EI42-5VA_1xSec
 Trafo, Printtrafo, CHK, EI42, 5VA, 1x Sec,
 Trafo, Printtrafo, CHK, EI42, 5VA, 1x Sec,
 0
 10
 10
-0
-0
+Transformers_CHK
+Trafo_CHK-EI42-5VA_2xSec
 Trafo, Printtrafo, CHK, EI42, 5VA, 2x Sec,
 Trafo, Printtrafo, CHK, EI42, 5VA, 2x Sec,
 0
 10
 10
-0
-0
+Transformers_CHK
+Trafo_CHK-EI42-5VA_Neutral
 Trafo, Printtrafo, CHK, EI42, 5VA, neutral,
 Trafo, Printtrafo, CHK, EI42, 5VA, neutral,
 0
 10
 10
-0
-0
+Transformers_CHK
+Trafo_CHK-EI48-8VA_1xSec
 Trafo, Printtrafo, CHK, EI48, 8VA, 1x Sec,
 Trafo, Printtrafo, CHK, EI48, 8VA, 1x Sec,
 0
 12
 12
-0
-0
+Transformers_CHK
+Trafo_CHK-EI48-8VA_2xSec
 Trafo, Printtrafo, CHK, EI48, 8VA, 2x Sec,
 Trafo, Printtrafo, CHK, EI48, 8VA, 2x Sec,
 0
 12
 12
-0
-0
+Transformers_CHK
+Trafo_CHK-EI48-8VA_Neutral
 Trafo, Printtrafo, CHK, EI48, 8VA, neutral,
 Trafo, Printtrafo, CHK, EI48, 8VA, neutral,
 0
 12
 12
-0
-0
+Transformers_CHK
+Trafo_CHK-EI48-10VA_1xSec
 Trafo, Printtrafo, CHK, EI48, 10VA, 1x Sec,
 Trafo, Printtrafo, CHK, EI48, 10VA, 1x Sec,
 0
 12
 12
-0
-0
+Transformers_CHK
+Trafo_CHK-EI48-10VA_2xSec
 Trafo, Printtrafo, CHK, EI48, 10VA, 2x Sec,
 Trafo, Printtrafo, CHK, EI48, 10VA, 2x Sec,
 0
 12
 12
-0
-0
+Transformers_CHK
+Trafo_CHK-EI48-10VA_Neutral
 Trafo, Printtrafo, CHK, EI48, 10VA, neutral,
 Trafo, Printtrafo, CHK, EI48, 10VA, neutral,
 0
 12
 12
-0
-0
+Transformers_CHK
+Trafo_CHK-EI54-12VA_1xSec
 Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,
 Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,
 0
 14
 14
-0
-0
+Transformers_CHK
+Trafo_CHK-EI54-12VA_2xSec
 Trafo, Printtrafo, CHK, EI54, 12VA, 2x Sec,
 Trafo, Printtrafo, CHK, EI54, 12VA, 2x Sec,
 0
 14
 14
-0
-0
+Transformers_CHK
+Trafo_CHK-EI54-12VA_Neutral
 Trafo, Printtrafo, CHK, EI54, 12VA, neutral,
 Trafo, Printtrafo, CHK, EI54, 12VA, neutral,
 0
 14
 14
-0
-0
+Transformers_CHK
+Trafo_CHK-EI54-16VA_1xSec
 Trafo, Printtrafo, CHK, EI54, 16VA, 1x Sec,
 Trafo, Printtrafo, CHK, EI54, 16VA, 1x Sec,
 0
 14
 14
-0
-0
+Transformers_CHK
+Trafo_CHK-EI54-16VA_2xSec
 Trafo, Printtrafo, CHK, EI54, 16VA, 2x Sec,
 Trafo, Printtrafo, CHK, EI54, 16VA, 2x Sec,
 0
 14
 14
-0
-0
+Transformers_CHK
+Trafo_CHK-EI54-16VA_Neutral
 Trafo, Printtrafo, CHK, EI54, 16VA, neutral,
 Trafo, Printtrafo, CHK, EI54, 16VA, neutral,
 0
 14
 14
-0
-0
+Transformers_CHK
+Trafo_Flat_CHK-UI30-4VA
 Trafo, Flattrafo, CHK, UI30, 4VA,
 Trafo, Flattrafo, CHK, UI30, 4VA,
 0
 16
 16
-0
-0
+Transformers_CHK
+Trafo_Flat_CHK-UI39-10VA
 Trafo, Flattrafo, CHK, UI39, 10VA,
 Trafo, Flattrafo, CHK, UI39, 10VA,
 0
 20
 20
-0
-0
+Transformers_SMPS_ThroughHole
+Coilcraft-Q4434-B_Rhombus-T1311
 Transformator, Transformer, Flyback, Coilcraft Q4434-B, Rgombus T1311,
 Transformator, Transformer, Flyback, Coilcraft Q4434-B, Rgombus T1311,
 0
 8
 8
-0
-0
+Transformers_SMPS_ThroughHole
+ETD29_13Pin_Horizontal_EPCOS-B66359A1013T
 Transformer, Transformator, ETD29, 13 Pin, Horizontal, EPCOS-B66359A1013T,
 Transformer, Transformator, ETD29, 13 Pin, Horizontal, EPCOS-B66359A1013T,
 0
 13
 13
-0
-0
+Transformers_SMPS_ThroughHole
+ETD29_13Pin_Horizontal_Myrra-74040
 Transformer, Transformator, ETD29, 13 Pin, Horizontal, Myrra-74040,
 Transformer, Transformator, ETD29, 13 Pin, Horizontal, Myrra-74040,
 0
 13
 13
-0
-0
+Transformers_SMPS_ThroughHole
+ETD29_14Pin_Vertical_EPCOS-B66359J1014T
 Transformer, Transformator, ETD29, 14 Pin, Vertical, EPCOS-B66359J1014T,
 Transformer, Transformator, ETD29, 14 Pin, Vertical, EPCOS-B66359J1014T,
 0
 14
 14
-0
-0
+Transistors_OldSowjetAera
+OldSowjetaera_Transistor_Type-II_BigPads
 
 
 0
 3
 3
-0
-0
+Transistors_OldSowjetAera
+OldSowjetaera_Transistor_Type-II_SmallPads
 
 
 0
 3
 3
-0
-0
+Transistors_OldSowjetAera
+OldSowjetaera_Transistor_Type-I_BigPads
 
 
 0
 3
 3
-0
-0
+Transistors_OldSowjetAera
+OldSowjetaera_Transistor_Type-I_SmallPads
 
 
 0
 3
 3
-0
-0
+Valves
+VALVE-ECC-83-1
 
 
 0
 9
 9
-0
-0
+Valves
+VALVE-ECC-83-2
 
 
 0
 10
 9
-0
-0
+Valves
+VALVE-EURO
 
 
 0
 7
 5
-0
-0
+Valves
+VALVE-GLIMM
 
 
 0
 2
 2
-0
-0
+Valves
+VALVE-MINI_G
 
 
 0
 9
 7
-0
-0
+Valves
+VALVE-MINI_P
 
 
 0
 7
 7
-0
-0
+Valves
+VALVE-NOVAL_G
 
 
 0
 11
 9
-0
-0
+Valves
+VALVE-NOVAL_P
 
 
 0
 9
 9
-0
-0
+Valves
+VALVE-OCTAL
 
 
 0
 9
 8
-0
-0
+Varistors
+RV_Disc_D7_W3.4_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W3.5_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W3.6_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W3.7_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W3.8_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W3.9_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W4.2_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W4.3_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W4.5_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W4.8_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W4_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W5.1_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W5.4_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W5.5_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D7_W5.7_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W3.3_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W3.4_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W3.5_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W3.6_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W3.7_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W3.8_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W3.9_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W4.1_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W4.2_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W4.4_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W4.5_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W4.8_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W4_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W5.2_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W5.4_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W5.5_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D9_W5.7_P5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W3.9_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W4.2_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W4.3_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W4.4_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W4.5_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W4.6_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W4.7_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W4.8_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W4_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W5.1_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W5.4_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W5.8_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W5_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W6.1_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W6.2_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W6.3_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W6.7_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W7.1_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W7.5_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D12_W7.9_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W3.9_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W4.2_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W4.3_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W4.4_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W4.5_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W4.6_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W4.7_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W4.8_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W4.9_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W4_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W5.2_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W5.4_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W5.9_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W5_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W6.1_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W6.3_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W6.4_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W6.8_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W7.2_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W7.5_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W8_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D15.5_W11_P7.5
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W4.3_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W4.4_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W4.5_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W4.6_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W4.7_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W4.8_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W4.9_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W5.1_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W5.3_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W5.4_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W5.6_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W5.8_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W5_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W6.3_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W6.5_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W6.7_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W6.8_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W7.1_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W7.5_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W7.9_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W8.4_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Varistors
+RV_Disc_D21.5_W11.4_P10
 
 varistor SIOV
 0
 2
 2
-0
-0
+Wire_Connections_Bridges
+WireConnection_0.80mmDrill
 WireConnection with 0.8mm drill
 
 0
 2
 2
-0
-0
+Wire_Connections_Bridges
+WireConnection_0.80mmDrill_ThinPad
 WireConnection with thin pad and 0.8mm drill
 
 0
 2
 2
-0
-0
+Wire_Connections_Bridges
+WireConnection_1.00mmDrill
 WireConnection with 1mm drill
 
 0
 2
 2
-0
-0
+Wire_Connections_Bridges
+WireConnection_1.20mmDrill
 WireConnection with 1.2mm drill
 
 0
 2
 2
-0
-0
+Wire_Connections_Bridges
+WireConnection_1.50mmDrill
 WireConnection with 1.5mm drill
 
 0
 2
 2
-0
-0
+Wire_Connections_Bridges
+WireConnection_2.00mmDrill
 WireConnection with 2mm drill
 
 0
 2
 2
-0
-0
+Wire_Connections_Bridges
+WireConnection_2.50mmDrill
 WireConnection with 2.5mm drill
 
 0
 2
 2
-0
-0
+Wire_Connections_Bridges
+WireConnection_2.50mmDrill_LargePad
 WireConnection with 2.5mm drill and large pads
 
 0
 2
 2
-0
-0
+Wire_Connections_Bridges
+WireConnection_12.50mmDrill
 WireConnection with 12.5mm drill
 
 0
 2
 2
-0
-0
+Wire_Pads
+SolderWirePad_2x_0-8mmDrill
 
 
 0
 2
 1
-0
-0
+Wire_Pads
+SolderWirePad_2x_1-2mmDrill
 
 
 0
 2
 1
-0
-0
+Wire_Pads
+SolderWirePad_2x_1-5mmDrill
 
 
 0
 2
 1
-0
-0
+Wire_Pads
+SolderWirePad_2x_1mmDrill
 
 
 0
 2
 1
-0
-0
+Wire_Pads
+SolderWirePad_2x_2-5mmDrill
 
 
 0
 2
 1
-0
-0
+Wire_Pads
+SolderWirePad_2x_2mmDrill
 
 
 0
 2
 1
-0
-0
+Wire_Pads
+SolderWirePad_3x_0-8mmDrill
 
 
 0
 3
 1
-0
-0
+Wire_Pads
+SolderWirePad_3x_1-2mmDrill
 
 
 0
 3
 1
-0
-0
+Wire_Pads
+SolderWirePad_3x_1-5mmDrill
 
 
 0
 3
 1
-0
-0
+Wire_Pads
+SolderWirePad_3x_1mmDrill
 
 
 0
 3
 1
-0
-0
+Wire_Pads
+SolderWirePad_3x_2-5mmDrill
 
 
 0
 3
 1
-0
-0
+Wire_Pads
+SolderWirePad_3x_2mmDrill
 
 
 0
 3
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xInline_0-8mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xInline_1-2mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xInline_1-5mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xInline_1mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xinLine_2-5mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xInline_2mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xSquare_0-8mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xSquare_1-2mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xSquare_1-5mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xSquare_1mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xSquare_2-5mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_4xSquare_2mmDrill
 
 
 0
 4
 1
-0
-0
+Wire_Pads
+SolderWirePad_single_0-8mmDrill
 
 
 0
 1
 1
-0
-0
+Wire_Pads
+SolderWirePad_single_1-2mmDrill
 
 
 0
 1
 1
-0
-0
+Wire_Pads
+SolderWirePad_single_1-5mmDrill
 
 
 0
 1
 1
-0
-0
+Wire_Pads
+SolderWirePad_single_1mmDrill
 
 
 0
 1
 1
-0
-0
+Wire_Pads
+SolderWirePad_single_2-5mmDrill
 
 
 0
 1
 1
+Wire_Pads
+SolderWirePad_single_2mmDrill
+
+
 0
-0
+1
+1
